@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\Samuel Kouakou\Downloads\TD4-A22-Fichiers\main.cpp(68,46): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\Samuel Kouakou\Downloads\TD4-A22-Fichiers\main.cpp(69,48): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\Samuel Kouakou\Downloads\TD4-A22-Fichiers\main.cpp(77,47): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+     Création de la bibliothèque C:\Users\Samuel Kouakou\Downloads\TD4-A22-Fichiers\x64\Debug\ProjetTest.lib et de l'objet C:\Users\Samuel Kouakou\Downloads\TD4-A22-Fichiers\x64\Debug\ProjetTest.exp
+  ProjetTest.vcxproj -> C:\Users\Samuel Kouakou\Downloads\TD4-A22-Fichiers\x64\Debug\ProjetTest.exe
